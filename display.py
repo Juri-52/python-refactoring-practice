@@ -1,4 +1,4 @@
-from main import *
+from loan import Loan
 
 def print_loan(loan: Loan):
     print(f"利用者: {loan.borrower}")

@@ -1,6 +1,6 @@
 from book import Book
 from loan import Loan
-from display import *
+from display import print_loan
 
 def main() -> None:
     book1 = Book("Python入門", 100)
